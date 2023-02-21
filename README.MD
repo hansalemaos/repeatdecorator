@@ -1,7 +1,7 @@
 # A decorator to call a function every n seconds
 
 
-### pip install adbescapes repeatdecorator
+### pip install repeatdecorator
 
 ```python
 
